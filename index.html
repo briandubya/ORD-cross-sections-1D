@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ORD Cross Section</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="mb-4 text-center">Rivers ORD Cross Section Extraction Tool</h2>
+    
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <input type="text" id="riverInput" class="form-control" placeholder="River Name" required>
+            </div>
+            <div class="col-md-6">
+                <input type="text" id="reachInput" class="form-control" placeholder="Reach" required>
+            </div>
+        </div>
+    
+        <div class="row">
+            <div class="col-12">
+                <input type="file" id="fileInput" class="form-control-file" accept=".xml">
+            </div>
+        </div>
+    
+        <div class="text-center my-4">
+            <button id="convertButton" class="btn btn-primary mr-2">Convert and Display Graphs</button>
+            <button id="downloadCsvButton" class="btn btn-success" style="display:none;">Download CSV</button>
+        </div>
+    
+        <div class="graph-navigation mb-4 text-center">
+            <button id="prevGraph" class="btn btn-outline-secondary mr-2">Previous</button>
+            <select id="graphSelect" class="custom-select d-inline-block" style="width: auto;"></select>
+            <button id="nextGraph" class="btn btn-outline-secondary ml-2">Next</button>
+            <input type="text" id="searchGraph" class="form-control d-inline-block ml-2" style="width: auto;" placeholder="Search Graph">
+        </div>
+    
+        <div id="graphContainer"></div>
+    </div>
+    <footer class="footer bg-light mt-5 py-3">
+        <div class="container text-center">
+            <span>Issues? get in touch <a href="mailto:bwaidyaratne@gmail.com">Brian Waidyaratne</a>.</span>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

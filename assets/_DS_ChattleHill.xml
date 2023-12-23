@@ -1,0 +1,1019 @@
+<InRoads productName="OpenRoads Designer CE - 2021 Release 1" productVersion="10.10.01.03" linearUnits="Metric" angularUnits="Degrees" isInternationalFoot="false" commandName="CrossSectionReport" > 
+<CrossSectionSet setName="Unnamed Cross Section" alignmentName="W1_LHS_TOD" > 
+<CrossSectionStations > 
+<CrossSectionStation namedBoundary="0+831.719" > 
+<Station internalStation="831.718655355" externalStation="831.718655000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418796.963466332" northing="290848.315739633" elevation="77.835953855" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418796.963466332" northing="290848.315739633" elevation="77.835953855" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418796.963466332" northing="290848.315739633" elevation="77.835953855" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418796.963466332" northing="290848.315739633" elevation="77.835953855" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418796.963466332" northing="290848.315739633" elevation="77.835953855" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418797.096808363" northing="290847.833847630" elevation="77.835953855" offset="0.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418797.230150395" northing="290847.351955627" elevation="77.835953855" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418797.230150395" northing="290847.351955627" elevation="77.835953855" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418797.230150395" northing="290847.351955627" elevation="77.835953855" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418797.230150395" northing="290847.351955627" elevation="77.835953855" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418797.230150395" northing="290847.351955627" elevation="77.835953855" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+840.000" > 
+<Station internalStation="840.000000000" externalStation="840.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418804.944893850" northing="290850.524242268" elevation="78.103381561" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418804.944893850" northing="290850.524242268" elevation="78.103381561" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418804.944893850" northing="290850.524242268" elevation="78.103381561" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418804.944893850" northing="290850.524242268" elevation="78.103381561" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418804.944893850" northing="290850.524242268" elevation="78.103381561" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418805.078235882" northing="290850.042350265" elevation="78.103381561" offset="0.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418805.211577913" northing="290849.560458262" elevation="78.103381561" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418805.211577913" northing="290849.560458262" elevation="78.103381561" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418805.211577913" northing="290849.560458262" elevation="78.103381561" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418805.211577913" northing="290849.560458262" elevation="78.103381561" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418805.211577913" northing="290849.560458262" elevation="78.103381561" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+850.000" > 
+<Station internalStation="850.000000000" externalStation="850.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418814.582733912" northing="290853.191082896" elevation="78.056089368" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418814.582733912" northing="290853.191082896" elevation="78.056089368" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418814.582733912" northing="290853.191082896" elevation="78.056089368" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418814.582733912" northing="290853.191082896" elevation="78.056089368" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418814.582733912" northing="290853.191082896" elevation="78.056089368" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418814.716075944" northing="290852.709190893" elevation="78.056089368" offset="0.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418814.849417975" northing="290852.227298890" elevation="78.056089368" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418814.849417975" northing="290852.227298890" elevation="78.056089368" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418814.849417975" northing="290852.227298890" elevation="78.056089368" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418814.849417975" northing="290852.227298890" elevation="78.056089368" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418814.849417975" northing="290852.227298890" elevation="78.056089368" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+851.115" > 
+<Station internalStation="851.115187455" externalStation="851.115187000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418815.656092397" northing="290853.493541033" elevation="78.047037896" offset="-0.000977931" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418815.656092397" northing="290853.493541033" elevation="78.047037896" offset="-0.000977931" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418815.656092397" northing="290853.493541033" elevation="78.047037896" offset="-0.000977931" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418815.656092397" northing="290853.493541033" elevation="78.047037896" offset="-0.000977931" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418815.656092397" northing="290853.493541033" elevation="78.047037896" offset="-0.000977931" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418815.797617789" northing="290853.014005853" elevation="78.047037896" offset="0.499005494" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418815.939143181" northing="290852.534470673" elevation="78.047037896" offset="0.998988919" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418815.939143181" northing="290852.534470673" elevation="78.047037896" offset="0.998988919" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418815.939143181" northing="290852.534470673" elevation="78.047037896" offset="0.998988919" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418815.939143181" northing="290852.534470673" elevation="78.047037896" offset="0.998988919" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418815.939143181" northing="290852.534470673" elevation="78.047037896" offset="0.998988919" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+860.000" > 
+<Station internalStation="860.000000000" externalStation="860.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418823.673130218" northing="290857.244111675" elevation="77.974257495" offset="-0.001019113" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418823.673130218" northing="290857.244111675" elevation="77.974257495" offset="-0.001019113" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418823.673130218" northing="290857.244111675" elevation="77.974257495" offset="-0.001019113" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418823.673130218" northing="290857.244111675" elevation="77.974257495" offset="-0.001019113" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418823.673130218" northing="290857.244111675" elevation="77.974257495" offset="-0.001019113" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418823.950537607" northing="290856.828145489" elevation="77.974257495" offset="0.498963614" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418824.227944996" northing="290856.412179303" elevation="77.974257495" offset="0.998946341" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418824.227944996" northing="290856.412179303" elevation="77.974257495" offset="0.998946341" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418824.227944996" northing="290856.412179303" elevation="77.974257495" offset="0.998946341" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418824.227944996" northing="290856.412179303" elevation="77.974257495" offset="0.998946341" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418824.227944996" northing="290856.412179303" elevation="77.974257495" offset="0.998946341" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+870.000" > 
+<Station internalStation="870.000000000" externalStation="870.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418830.902942439" northing="290864.082993315" elevation="77.892341994" offset="-0.000647143" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418830.902942439" northing="290864.082993315" elevation="77.892341994" offset="-0.000647143" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418830.902942439" northing="290864.082993315" elevation="77.892341994" offset="-0.000647143" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418830.902942439" northing="290864.082993315" elevation="77.892341994" offset="-0.000647143" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418830.902942439" northing="290864.082993315" elevation="77.892341994" offset="-0.000647143" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418831.302889019" northing="290863.782940377" elevation="77.892341994" offset="0.499341889" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418831.702835598" northing="290863.482887439" elevation="77.892341994" offset="0.999330920" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418831.702835598" northing="290863.482887439" elevation="77.892341994" offset="0.999330920" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418831.702835598" northing="290863.482887439" elevation="77.892341994" offset="0.999330920" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418831.702835598" northing="290863.482887439" elevation="77.892341994" offset="0.999330920" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418831.702835598" northing="290863.482887439" elevation="77.892341994" offset="0.999330920" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+880.000" > 
+<Station internalStation="880.000000000" externalStation="880.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418835.447051632" northing="290872.936992420" elevation="77.810426437" offset="-0.000500329" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418835.447051632" northing="290872.936992420" elevation="77.810426437" offset="-0.000500329" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418835.447051632" northing="290872.936992420" elevation="77.810426437" offset="-0.000500329" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418835.447051632" northing="290872.936992420" elevation="77.810426437" offset="-0.000500329" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418835.447051632" northing="290872.936992420" elevation="77.810426437" offset="-0.000500329" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418835.924017011" northing="290872.787007263" elevation="77.810426437" offset="0.499491191" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418836.400982390" northing="290872.637022107" elevation="77.810426437" offset="0.999482711" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418836.400982390" northing="290872.637022107" elevation="77.810426437" offset="0.999482711" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418836.400982390" northing="290872.637022107" elevation="77.810426437" offset="0.999482711" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418836.400982390" northing="290872.637022107" elevation="77.810426437" offset="0.999482711" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418836.400982390" northing="290872.637022107" elevation="77.810426437" offset="0.999482711" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+883.878" > 
+<Station internalStation="883.878223612" externalStation="883.878224000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418836.368909651" northing="290876.701392988" elevation="77.778726269" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418836.368909651" northing="290876.701392988" elevation="77.778726269" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418836.368909651" northing="290876.701392988" elevation="77.778726269" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418836.368909651" northing="290876.701392988" elevation="77.778726269" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418836.368909651" northing="290876.701392988" elevation="77.778726269" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418836.859892236" northing="290876.606862032" elevation="77.778726269" offset="0.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.350874820" northing="290876.512331077" elevation="77.778726269" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.350874820" northing="290876.512331077" elevation="77.778726269" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418837.350874820" northing="290876.512331077" elevation="77.778726269" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.350874820" northing="290876.512331077" elevation="77.778726269" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.350874820" northing="290876.512331077" elevation="77.778726269" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+887.690" > 
+<Station internalStation="887.689621771" externalStation="887.689622000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.094797098" northing="290880.442990640" elevation="77.748093809" offset="0.000998938" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.094797098" northing="290880.442990640" elevation="77.748093809" offset="0.000998938" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418837.094797098" northing="290880.442990640" elevation="77.748093809" offset="0.000998938" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.094797098" northing="290880.442990640" elevation="77.748093809" offset="0.000998938" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.094797098" northing="290880.442990640" elevation="77.748093809" offset="0.000998938" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418837.584086428" northing="290880.340133575" elevation="77.748093809" offset="0.500982562" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418838.073375758" northing="290880.237276510" elevation="77.748093809" offset="1.000966186" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418838.073375758" northing="290880.237276510" elevation="77.748093809" offset="1.000966186" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418838.073375758" northing="290880.237276510" elevation="77.748093809" offset="1.000966186" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418838.073375758" northing="290880.237276510" elevation="77.748093809" offset="1.000966186" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418838.073375758" northing="290880.237276510" elevation="77.748093809" offset="1.000966186" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+890.000" > 
+<Station internalStation="890.000000000" externalStation="890.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.654809179" northing="290882.683840007" elevation="77.729788708" offset="0.000581087" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.654809179" northing="290882.683840007" elevation="77.729788708" offset="0.000581087" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418837.654809179" northing="290882.683840007" elevation="77.729788708" offset="0.000581087" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.654809179" northing="290882.683840007" elevation="77.729788708" offset="0.000581087" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418837.654809179" northing="290882.683840007" elevation="77.729788708" offset="0.000581087" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418838.134917983" northing="290882.544247707" elevation="77.729788708" offset="0.500571561" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418838.615026787" northing="290882.404655407" elevation="77.729788708" offset="1.000562035" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418838.615026787" northing="290882.404655407" elevation="77.729788708" offset="1.000562035" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418838.615026787" northing="290882.404655407" elevation="77.729788708" offset="1.000562035" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418838.615026787" northing="290882.404655407" elevation="77.729788708" offset="1.000562035" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418838.615026787" northing="290882.404655407" elevation="77.729788708" offset="1.000562035" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+900.000" > 
+<Station internalStation="900.000000000" externalStation="900.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418841.956731804" northing="290891.661482100" elevation="77.650558960" offset="0.000278009" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418841.956731804" northing="290891.661482100" elevation="77.650558960" offset="0.000278009" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418841.956731804" northing="290891.661482100" elevation="77.650558960" offset="0.000278009" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418841.956731804" northing="290891.661482100" elevation="77.650558960" offset="0.000278009" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418841.956731804" northing="290891.661482100" elevation="77.650558960" offset="0.000278009" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418842.366317286" northing="290891.374715339" elevation="77.650558960" offset="0.500273451" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418842.775902769" northing="290891.087948578" elevation="77.650558960" offset="1.000268894" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418842.775902769" northing="290891.087948578" elevation="77.650558960" offset="1.000268894" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418842.775902769" northing="290891.087948578" elevation="77.650558960" offset="1.000268894" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418842.775902769" northing="290891.087948578" elevation="77.650558960" offset="1.000268894" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418842.775902769" northing="290891.087948578" elevation="77.650558960" offset="1.000268894" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+910.000" > 
+<Station internalStation="910.000000000" externalStation="910.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418848.921239331" northing="290898.774756957" elevation="77.571329190" offset="0.001058725" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418848.921239331" northing="290898.774756957" elevation="77.571329190" offset="0.001058725" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418848.921239331" northing="290898.774756957" elevation="77.571329190" offset="0.001058725" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418848.921239331" northing="290898.774756957" elevation="77.571329190" offset="0.001058725" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418848.921239331" northing="290898.774756957" elevation="77.571329190" offset="0.001058725" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418849.216652558" northing="290898.371379133" elevation="77.571329190" offset="0.501041369" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418849.512065786" northing="290897.968001309" elevation="77.571329190" offset="1.001024013" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418849.512065786" northing="290897.968001309" elevation="77.571329190" offset="1.001024013" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418849.512065786" northing="290897.968001309" elevation="77.571329190" offset="1.001024013" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418849.512065786" northing="290897.968001309" elevation="77.571329190" offset="1.001024013" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418849.512065786" northing="290897.968001309" elevation="77.571329190" offset="1.001024013" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+916.853" > 
+<Station internalStation="916.853402191" externalStation="916.853402000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418854.856121918" northing="290902.173084975" elevation="77.517000256" offset="-0.001242556" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418854.856121918" northing="290902.173084975" elevation="77.517000256" offset="-0.001242556" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418854.856121918" northing="290902.173084975" elevation="77.517000256" offset="-0.001242556" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418854.856121918" northing="290902.173084975" elevation="77.517000256" offset="-0.001242556" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418854.856121918" northing="290902.173084975" elevation="77.517000256" offset="-0.001242556" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418855.057636203" northing="290901.715491274" elevation="77.516999939" offset="0.498757446" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418855.259150488" northing="290901.257897574" elevation="77.516999622" offset="0.998757448" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418855.259150488" northing="290901.257897574" elevation="77.516999622" offset="0.998757448" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418855.259150488" northing="290901.257897574" elevation="77.516999622" offset="0.998757448" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418855.259150488" northing="290901.257897574" elevation="77.516999622" offset="0.998757448" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418855.259150488" northing="290901.257897574" elevation="77.516999622" offset="0.998757448" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+920.000" > 
+<Station internalStation="920.000000000" externalStation="920.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418857.735948321" northing="290903.441027291" elevation="77.491654327" offset="-0.000995070" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418857.735948321" northing="290903.441027291" elevation="77.491654327" offset="-0.000995070" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418857.735948321" northing="290903.441027291" elevation="77.491654327" offset="-0.000995070" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418857.735948321" northing="290903.441027291" elevation="77.491654327" offset="-0.000995070" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418857.735948321" northing="290903.441027291" elevation="77.491654327" offset="-0.000995070" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418857.937462606" northing="290902.983433590" elevation="77.491654011" offset="0.499004931" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418858.138976891" northing="290902.525839890" elevation="77.491653694" offset="0.999004933" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418858.138976891" northing="290902.525839890" elevation="77.491653694" offset="0.999004933" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418858.138976891" northing="290902.525839890" elevation="77.491653694" offset="0.999004933" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418858.138976891" northing="290902.525839890" elevation="77.491653694" offset="0.999004933" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418858.138976891" northing="290902.525839890" elevation="77.491653694" offset="0.999004933" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+930.000" > 
+<Station internalStation="930.000000000" externalStation="930.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418866.888139286" northing="290907.470593168" elevation="77.411104063" offset="-0.000208553" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418866.888139286" northing="290907.470593168" elevation="77.411104063" offset="-0.000208553" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418866.888139286" northing="290907.470593168" elevation="77.411104063" offset="-0.000208553" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418866.888139286" northing="290907.470593168" elevation="77.411104063" offset="-0.000208553" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418866.888139286" northing="290907.470593168" elevation="77.411104063" offset="-0.000208553" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418867.089653571" northing="290907.012999468" elevation="77.411103746" offset="0.499791448" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418867.291167856" northing="290906.555405768" elevation="77.411103429" offset="0.999791450" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418867.291167856" northing="290906.555405768" elevation="77.411103429" offset="0.999791450" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418867.291167856" northing="290906.555405768" elevation="77.411103429" offset="0.999791450" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418867.291167856" northing="290906.555405768" elevation="77.411103429" offset="0.999791450" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418867.291167856" northing="290906.555405768" elevation="77.411103429" offset="0.999791450" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+933.191" > 
+<Station internalStation="933.191441275" externalStation="933.191441000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418869.806623102" northing="290908.761906143" elevation="77.385323233" offset="-0.000872961" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418869.806623102" northing="290908.761906143" elevation="77.385323233" offset="-0.000872961" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418869.806623102" northing="290908.761906143" elevation="77.385323233" offset="-0.000872961" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418869.806623102" northing="290908.761906143" elevation="77.385323233" offset="-0.000872961" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418869.806623102" northing="290908.761906143" elevation="77.385323233" offset="-0.000872961" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418870.016434994" northing="290908.308073383" elevation="77.385323233" offset="0.499112243" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418870.226246886" northing="290907.854240623" elevation="77.385323233" offset="0.999097447" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418870.226246886" northing="290907.854240623" elevation="77.385323233" offset="0.999097447" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418870.226246886" northing="290907.854240623" elevation="77.385323233" offset="0.999097447" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418870.226246886" northing="290907.854240623" elevation="77.385323233" offset="0.999097447" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418870.226246886" northing="290907.854240623" elevation="77.385323233" offset="0.999097447" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+940.000" > 
+<Station internalStation="940.000000000" externalStation="940.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418875.603470074" northing="290912.303751423" elevation="77.329550557" offset="-0.001017709" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418875.603470074" northing="290912.303751423" elevation="77.329550557" offset="-0.001017709" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418875.603470074" northing="290912.303751423" elevation="77.329550557" offset="-0.001017709" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418875.603470074" northing="290912.303751423" elevation="77.329550557" offset="-0.001017709" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418875.603470074" northing="290912.303751423" elevation="77.329550557" offset="-0.001017709" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418875.911533609" northing="290911.909949939" elevation="77.329550557" offset="0.498965042" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418876.219597145" northing="290911.516148455" elevation="77.329550557" offset="0.998947793" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418876.219597145" northing="290911.516148455" elevation="77.329550557" offset="0.998947793" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418876.219597145" northing="290911.516148455" elevation="77.329550557" offset="0.998947793" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418876.219597145" northing="290911.516148455" elevation="77.329550557" offset="0.998947793" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418876.219597145" northing="290911.516148455" elevation="77.329550557" offset="0.998947793" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+950.000" > 
+<Station internalStation="950.000000000" externalStation="950.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418882.295694824" northing="290919.669573185" elevation="77.247635045" offset="-0.000435496" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418882.295694824" northing="290919.669573185" elevation="77.247635045" offset="-0.000435496" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418882.295694824" northing="290919.669573185" elevation="77.247635045" offset="-0.000435496" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418882.295694824" northing="290919.669573185" elevation="77.247635045" offset="-0.000435496" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418882.295694824" northing="290919.669573185" elevation="77.247635045" offset="-0.000435496" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418882.717185898" northing="290919.400616137" elevation="77.247635045" offset="0.499557122" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418883.138676972" northing="290919.131659090" elevation="77.247635045" offset="0.999549741" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418883.138676972" northing="290919.131659090" elevation="77.247635045" offset="0.999549741" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418883.138676972" northing="290919.131659090" elevation="77.247635045" offset="0.999549741" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418883.138676972" northing="290919.131659090" elevation="77.247635045" offset="0.999549741" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418883.138676972" northing="290919.131659090" elevation="77.247635045" offset="0.999549741" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+960.000" > 
+<Station internalStation="960.000000000" externalStation="960.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.156996825" northing="290928.841956743" elevation="77.165719489" offset="-0.000698653" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.156996825" northing="290928.841956743" elevation="77.165719489" offset="-0.000698653" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418886.156996825" northing="290928.841956743" elevation="77.165719489" offset="-0.000698653" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.156996825" northing="290928.841956743" elevation="77.165719489" offset="-0.000698653" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.156996825" northing="290928.841956743" elevation="77.165719489" offset="-0.000698653" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418886.643933696" northing="290928.728463824" elevation="77.165719489" offset="0.499289505" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.130870566" northing="290928.614970904" elevation="77.165719489" offset="0.999277664" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.130870566" northing="290928.614970904" elevation="77.165719489" offset="0.999277664" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418887.130870566" northing="290928.614970904" elevation="77.165719489" offset="0.999277664" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.130870566" northing="290928.614970904" elevation="77.165719489" offset="0.999277664" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.130870566" northing="290928.614970904" elevation="77.165719489" offset="0.999277664" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+967.773" > 
+<Station internalStation="967.772678769" externalStation="967.772679000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.915759566" northing="290936.555520863" elevation="77.102127548" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.915759566" northing="290936.555520863" elevation="77.102127548" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418886.915759566" northing="290936.555520863" elevation="77.102127548" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.915759566" northing="290936.555520863" elevation="77.102127548" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.915759566" northing="290936.555520863" elevation="77.102127548" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418887.415703087" northing="290936.563035886" elevation="77.102127548" offset="0.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.915646608" northing="290936.570550909" elevation="77.102127548" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.915646608" northing="290936.570550909" elevation="77.102127548" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418887.915646608" northing="290936.570550909" elevation="77.102127548" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.915646608" northing="290936.570550909" elevation="77.102127548" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.915646608" northing="290936.570550909" elevation="77.102127548" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+970.000" > 
+<Station internalStation="970.000000000" externalStation="970.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.882282825" northing="290938.782590501" elevation="77.084186417" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.882282825" northing="290938.782590501" elevation="77.084186417" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418886.882282825" northing="290938.782590501" elevation="77.084186417" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.882282825" northing="290938.782590501" elevation="77.084186417" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.882282825" northing="290938.782590501" elevation="77.084186417" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418887.382226346" northing="290938.790105524" elevation="77.084186417" offset="0.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.882169867" northing="290938.797620548" elevation="77.084186417" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.882169867" northing="290938.797620548" elevation="77.084186417" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418887.882169867" northing="290938.797620548" elevation="77.084186417" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.882169867" northing="290938.797620548" elevation="77.084186417" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418887.882169867" northing="290938.797620548" elevation="77.084186417" offset="1.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+973.273" > 
+<Station internalStation="973.272678769" externalStation="973.272679000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.829789327" northing="290942.052787704" elevation="77.059509689" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.829789327" northing="290942.052787704" elevation="77.059509689" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.829789327" northing="290942.052787704" elevation="77.059509689" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418886.829789327" northing="290942.052787704" elevation="77.059509689" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418886.833025012" northing="290942.059509802" elevation="77.057787763" offset="0.007460312" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418887.317938487" northing="290943.066911867" elevation="77.049732737" offset="1.125494300" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418887.802851962" northing="290944.074313933" elevation="77.041677710" offset="2.243528289" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.742505862" northing="290948.103922195" elevation="78.009457605" offset="6.715664244" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.742505862" northing="290948.103922195" elevation="78.009457605" offset="6.715664244" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.742505862" northing="290948.103922195" elevation="78.009457605" offset="6.715664244" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.742505862" northing="290948.103922195" elevation="78.009457605" offset="6.715664244" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+<CrossSectionSurface > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="RFS_BND_HA" style="Alignment\DJV\Environemntal\River_Diversion_Alignment" easting="418889.524475476" northing="290947.650966620" elevation="78.011759641" offset="6.212965525" corridorName="" alternateSurface="" isTop="False" isBottom="False" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+975.509" > 
+<Station internalStation="975.508746746" externalStation="975.508747000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.818290181" northing="290943.024726546" elevation="78.049769876" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.818290181" northing="290943.024726546" elevation="78.049769876" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.818290181" northing="290943.024726546" elevation="78.049769876" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.818290181" northing="290943.024726546" elevation="78.049769876" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418886.818064265" northing="290943.054786639" elevation="77.049769876" offset="2.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418887.318007787" northing="290943.062301662" elevation="77.049769876" offset="2.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418887.817951308" northing="290943.069816685" elevation="77.049769876" offset="3.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.817725393" northing="290943.099876778" elevation="78.049769876" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.817725393" northing="290943.099876778" elevation="78.049769876" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.817725393" northing="290943.099876778" elevation="78.049769876" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.817725393" northing="290943.099876778" elevation="78.049769876" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+980.000" > 
+<Station internalStation="980.000000000" externalStation="980.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.750786437" northing="290947.515472479" elevation="78.013592713" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.750786437" northing="290947.515472479" elevation="78.013592713" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.750786437" northing="290947.515472479" elevation="78.013592713" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.750786437" northing="290947.515472479" elevation="78.013592713" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418886.750560521" northing="290947.545532572" elevation="77.013592713" offset="2.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418887.250504043" northing="290947.553047595" elevation="77.013592713" offset="2.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418887.750447564" northing="290947.560562618" elevation="77.013592713" offset="3.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.750221649" northing="290947.590622710" elevation="78.013592713" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.750221649" northing="290947.590622710" elevation="78.013592713" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.750221649" northing="290947.590622710" elevation="78.013592713" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.750221649" northing="290947.590622710" elevation="78.013592713" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="0+990.000" > 
+<Station internalStation="990.000000000" externalStation="990.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.600485974" northing="290957.514342904" elevation="77.933042449" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.600485974" northing="290957.514342904" elevation="77.933042449" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.600485974" northing="290957.514342904" elevation="77.933042449" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418884.600485974" northing="290957.514342904" elevation="77.933042449" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418886.600260059" northing="290957.544402997" elevation="76.933042449" offset="2.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418887.100203581" northing="290957.551918020" elevation="76.933042449" offset="2.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418887.600147102" northing="290957.559433043" elevation="76.933042449" offset="3.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.599921187" northing="290957.589493135" elevation="77.933042449" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.599921187" northing="290957.589493135" elevation="77.933042449" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.599921187" northing="290957.589493135" elevation="77.933042449" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.599921187" northing="290957.589493135" elevation="77.933042449" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+000.000" > 
+<Station internalStation="1000.000000000" externalStation="1000.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418885.656230505" northing="290967.421360796" elevation="77.857991238" offset="0.000297021" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418885.656230505" northing="290967.421360796" elevation="77.857991238" offset="0.000297021" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418885.656230505" northing="290967.421360796" elevation="77.857991238" offset="0.000297021" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418885.656230505" northing="290967.421360796" elevation="77.857991238" offset="0.000297021" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418887.589995068" northing="290966.910986912" elevation="76.857991238" offset="2.000278743" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418888.073436209" northing="290966.783393441" elevation="76.857991238" offset="2.500274174" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418888.556877349" northing="290966.655799970" elevation="76.857991238" offset="3.000269604" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418890.490641913" northing="290966.145426086" elevation="77.857991238" offset="5.000251326" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418890.490641913" northing="290966.145426086" elevation="77.857991238" offset="5.000251326" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418890.490641913" northing="290966.145426086" elevation="77.857991238" offset="5.000251326" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418890.490641913" northing="290966.145426086" elevation="77.857991238" offset="5.000251326" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+<CrossSectionSurface > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="RFS_BND_HA" style="Alignment\DJV\Environemntal\River_Diversion_Alignment" easting="418874.496708978" northing="290970.366666782" elevation="79.000000000" offset="-11.541355722" corridorName="" alternateSurface="" isTop="False" isBottom="False" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+010.000" > 
+<Station internalStation="1010.000000000" externalStation="1010.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.643885522" northing="290976.548800033" elevation="77.783637129" offset="0.000355319" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.643885522" northing="290976.548800033" elevation="77.783637129" offset="0.000355319" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.643885522" northing="290976.548800033" elevation="77.783637129" offset="0.000355319" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418889.643885522" northing="290976.548800033" elevation="77.783637129" offset="0.000355319" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418891.332255930" northing="290975.476737581" elevation="76.783637129" offset="2.000333453" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418891.754348532" northing="290975.208721968" elevation="76.783637129" offset="2.500327987" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418892.176441134" northing="290974.940706354" elevation="76.783637129" offset="3.000322520" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418893.864811543" northing="290973.868643902" elevation="77.783637129" offset="5.000300655" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418893.864811543" northing="290973.868643902" elevation="77.783637129" offset="5.000300655" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418893.864811543" northing="290973.868643902" elevation="77.783637129" offset="5.000300655" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418893.864811543" northing="290973.868643902" elevation="77.783637129" offset="5.000300655" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+018.570" > 
+<Station internalStation="1018.569923039" externalStation="1018.569923000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418895.128237782" northing="290983.102676569" elevation="77.719514147" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418895.128237782" northing="290983.102676569" elevation="77.719514147" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418895.128237782" northing="290983.102676569" elevation="77.719514147" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418895.128237782" northing="290983.102676569" elevation="77.719514147" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418896.508017987" northing="290981.654848338" elevation="76.719514147" offset="2.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418896.852963038" northing="290981.292891280" elevation="76.719514147" offset="2.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418897.197908089" northing="290980.930934223" elevation="76.719514147" offset="3.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418898.577688294" northing="290979.483105992" elevation="77.719514147" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418898.577688294" northing="290979.483105992" elevation="77.719514147" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418898.577688294" northing="290979.483105992" elevation="77.719514147" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418898.577688294" northing="290979.483105992" elevation="77.719514147" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+020.000" > 
+<Station internalStation="1020.000000000" externalStation="1020.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418896.163490680" northing="290984.089272510" elevation="77.707994839" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418896.163490680" northing="290984.089272510" elevation="77.707994839" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418896.163490680" northing="290984.089272510" elevation="77.707994839" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418896.163490680" northing="290984.089272510" elevation="77.707994839" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418897.543270885" northing="290982.641444279" elevation="76.707994839" offset="2.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418897.888215936" northing="290982.279487221" elevation="76.707994839" offset="2.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418898.233160987" northing="290981.917530164" elevation="76.707994839" offset="3.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418899.612941192" northing="290980.469701933" elevation="77.707994839" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418899.612941192" northing="290980.469701933" elevation="77.707994839" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418899.612941192" northing="290980.469701933" elevation="77.707994839" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418899.612941192" northing="290980.469701933" elevation="77.707994839" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+021.316" > 
+<Station internalStation="1021.316373116" externalStation="1021.316373000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.122461797" northing="290984.990958018" elevation="77.697900681" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.122461797" northing="290984.990958018" elevation="77.697900681" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.122461797" northing="290984.990958018" elevation="77.697900681" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.122461797" northing="290984.990958018" elevation="77.697900681" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418898.460398095" northing="290983.504586094" elevation="76.697950258" offset="1.999843752" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418898.794882169" northing="290983.132993113" elevation="76.697964202" offset="2.499804690" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418899.129366244" northing="290982.761400132" elevation="76.697978860" offset="2.999765628" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418900.467302542" northing="290981.275028208" elevation="77.698045871" offset="4.999609380" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418900.467302542" northing="290981.275028208" elevation="77.698045871" offset="4.999609380" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418900.467302542" northing="290981.275028208" elevation="77.698045871" offset="4.999609380" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418900.467302542" northing="290981.275028208" elevation="77.698045871" offset="4.999609380" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+021.852" > 
+<Station internalStation="1021.852233302" externalStation="1021.852233000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.522938767" northing="290985.346976928" elevation="77.694063796" offset="-0.001463358" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.522938767" northing="290985.346976928" elevation="77.694063796" offset="-0.001463358" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.522938767" northing="290985.346976928" elevation="77.694063796" offset="-0.001463358" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.522938767" northing="290985.346976928" elevation="77.694063796" offset="-0.001463358" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418898.821846796" northing="290983.826132484" elevation="76.694148281" offset="1.998569114" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418899.146573804" northing="290983.445921373" elevation="76.694172043" offset="2.498577232" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418899.471300811" northing="290983.065710262" elevation="76.694197023" offset="2.998585350" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418900.770208841" northing="290981.544865818" elevation="77.694311218" offset="4.998617823" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418900.770208841" northing="290981.544865818" elevation="77.694311218" offset="4.998617823" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418900.770208841" northing="290981.544865818" elevation="77.694311218" offset="4.998617823" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418900.770208841" northing="290981.544865818" elevation="77.694311218" offset="4.998617823" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+022.164" > 
+<Station internalStation="1022.164101618" externalStation="1022.164102000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.760460705" northing="290985.549079641" elevation="77.691830761" offset="-0.000887186" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.760460705" northing="290985.549079641" elevation="77.691830761" offset="-0.000887186" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.760460705" northing="290985.549079641" elevation="77.691830761" offset="-0.000887186" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418897.760460705" northing="290985.549079641" elevation="77.691830761" offset="-0.000887186" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418899.059329790" northing="290984.028280797" elevation="76.691697389" offset="1.999085321" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418899.384047061" northing="290983.648081085" elevation="76.691659879" offset="2.499078447" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418899.708764333" northing="290983.267881374" elevation="76.691620444" offset="2.999071574" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418901.007633418" northing="290981.747082530" elevation="77.691440172" offset="4.999044080" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418901.007633418" northing="290981.747082530" elevation="77.691440172" offset="4.999044080" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418901.007633418" northing="290981.747082530" elevation="77.691440172" offset="4.999044080" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418901.007633418" northing="290981.747082530" elevation="77.691440172" offset="4.999044080" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+022.727" > 
+<Station internalStation="1022.726586969" externalStation="1022.726587000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418898.192670942" northing="290985.909060615" elevation="77.687401620" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418898.192670942" northing="290985.909060615" elevation="77.687401620" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418898.192670942" northing="290985.909060615" elevation="77.687401620" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418898.192670942" northing="290985.909060615" elevation="77.687401620" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418899.470851099" northing="290984.370796825" elevation="76.687401620" offset="2.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418899.790396139" northing="290983.986230878" elevation="76.687401620" offset="2.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418900.109941178" northing="290983.601664931" elevation="76.687401620" offset="3.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418901.388121336" northing="290982.063401142" elevation="77.687401620" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418901.388121336" northing="290982.063401142" elevation="77.687401620" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418901.388121336" northing="290982.063401142" elevation="77.687401620" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418901.388121336" northing="290982.063401142" elevation="77.687401620" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+030.000" > 
+<Station internalStation="1030.000000000" externalStation="1030.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418903.800483321" northing="290990.540622669" elevation="77.629531471" offset="0.000994701" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418903.800483321" northing="290990.540622669" elevation="77.629531471" offset="0.000994701" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418903.800483321" northing="290990.540622669" elevation="77.629531471" offset="0.000994701" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418903.800483321" northing="290990.540622669" elevation="77.629531471" offset="0.000994701" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418905.023026359" northing="290988.957858102" elevation="76.629531471" offset="2.000933489" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418905.328662118" northing="290988.562166960" elevation="76.629531471" offset="2.500918186" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418905.634297877" northing="290988.166475818" elevation="76.629531471" offset="3.000902882" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418906.856840915" northing="290986.583711250" elevation="77.629531471" offset="5.000841670" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418906.856840915" northing="290986.583711250" elevation="77.629531471" offset="5.000841670" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418906.856840915" northing="290986.583711250" elevation="77.629531471" offset="5.000841670" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418906.856840915" northing="290986.583711250" elevation="77.629531471" offset="5.000841670" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+032.471" > 
+<Station internalStation="1032.470619940" externalStation="1032.470620000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418905.807222996" northing="290991.980991119" elevation="77.610771333" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418905.807222996" northing="290991.980991119" elevation="77.610771333" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418905.807222996" northing="290991.980991119" elevation="77.610771333" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418905.807222996" northing="290991.980991119" elevation="77.610771333" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418906.938223543" northing="290990.331494904" elevation="76.610771333" offset="2.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418907.220973679" northing="290989.919120850" elevation="76.610771333" offset="2.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418907.503723816" northing="290989.506746796" elevation="76.610771333" offset="3.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418908.634724362" northing="290987.857250581" elevation="77.610771333" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418908.634724362" northing="290987.857250581" elevation="77.610771333" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418908.634724362" northing="290987.857250581" elevation="77.610771333" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418908.634724362" northing="290987.857250581" elevation="77.610771333" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+039.313" > 
+<Station internalStation="1039.312903185" externalStation="1039.312903000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418911.363367932" northing="290995.966916437" elevation="77.553638665" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418911.363367932" northing="290995.966916437" elevation="77.553638665" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418911.363367932" northing="290995.966916437" elevation="77.553638665" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418911.363367932" northing="290995.966916437" elevation="77.553638665" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418912.653707171" northing="290994.438837692" elevation="76.553638665" offset="2.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418912.976291980" northing="290994.056818006" elevation="76.553638665" offset="2.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418913.298876790" northing="290993.674798320" elevation="76.553638665" offset="3.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418914.589216029" northing="290992.146719576" elevation="77.553638665" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418914.589216029" northing="290992.146719576" elevation="77.553638665" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418914.589216029" northing="290992.146719576" elevation="77.553638665" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418914.589216029" northing="290992.146719576" elevation="77.553638665" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+040.000" > 
+<Station internalStation="1040.000000000" externalStation="1040.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418911.888336951" northing="290996.410210427" elevation="77.548104082" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418911.888336951" northing="290996.410210427" elevation="77.548104082" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418911.888336951" northing="290996.410210427" elevation="77.548104082" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418911.888336951" northing="290996.410210427" elevation="77.548104082" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418913.178676190" northing="290994.882131683" elevation="76.548104082" offset="2.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418913.501260999" northing="290994.500111997" elevation="76.548104082" offset="2.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418913.823845809" northing="290994.118092311" elevation="76.548104082" offset="3.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418915.114185048" northing="290992.590013566" elevation="77.548104082" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418915.114185048" northing="290992.590013566" elevation="77.548104082" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418915.114185048" northing="290992.590013566" elevation="77.548104082" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418915.114185048" northing="290992.590013566" elevation="77.548104082" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+046.724" > 
+<Station internalStation="1046.724401047" externalStation="1046.724401000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418917.029382248" northing="291000.744592145" elevation="77.494248318" offset="0.000189849" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418917.029382248" northing="291000.744592145" elevation="77.494248318" offset="0.000189849" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418917.029382248" northing="291000.744592145" elevation="77.494248318" offset="0.000189849" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418917.029382248" northing="291000.744592145" elevation="77.494248318" offset="0.000189849" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418918.296082064" northing="290999.196872584" elevation="76.494248318" offset="2.000180915" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418918.612757018" northing="290998.809942694" elevation="76.494248318" offset="2.500178681" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418918.929431972" northing="290998.423012804" elevation="76.494248318" offset="3.000176448" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418920.196131788" northing="290996.875293242" elevation="77.494248318" offset="5.000167514" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418920.196131788" northing="290996.875293242" elevation="77.494248318" offset="5.000167514" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418920.196131788" northing="290996.875293242" elevation="77.494248318" offset="5.000167514" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418920.196131788" northing="290996.875293242" elevation="77.494248318" offset="5.000167514" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+050.000" > 
+<Station internalStation="1050.000000000" externalStation="1050.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418919.641705652" northing="291002.719403037" elevation="77.469415330" offset="0.000311895" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418919.641705652" northing="291002.719403037" elevation="77.469415330" offset="0.000311895" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418919.641705652" northing="291002.719403037" elevation="77.469415330" offset="0.000311895" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418919.641705652" northing="291002.719403037" elevation="77.469415330" offset="0.000311895" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418920.785472602" northing="291001.078751199" elevation="76.469415330" offset="2.000297217" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418921.071414339" northing="291000.668588239" elevation="76.469415330" offset="2.500293548" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418921.357356077" northing="291000.258425279" elevation="76.469415330" offset="3.000289879" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418922.501123027" northing="290998.617773441" elevation="77.469415330" offset="5.000275201" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418922.501123027" northing="290998.617773441" elevation="77.469415330" offset="5.000275201" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418922.501123027" northing="290998.617773441" elevation="77.469415330" offset="5.000275201" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418922.501123027" northing="290998.617773441" elevation="77.469415330" offset="5.000275201" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+050.974" > 
+<Station internalStation="1050.974401047" externalStation="1050.974401000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418920.446769014" northing="291003.268307831" elevation="77.461909668" offset="-0.000715615" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418920.446769014" northing="291003.268307831" elevation="77.461909668" offset="-0.000715615" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418920.446769014" northing="291003.268307831" elevation="77.461909668" offset="-0.000715615" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418920.446769014" northing="291003.268307831" elevation="77.461909668" offset="-0.000715615" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418921.562461942" northing="291001.608419493" elevation="76.461909268" offset="1.999284386" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418921.841385174" northing="291001.193447409" elevation="76.461909169" offset="2.499284386" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418922.120308406" northing="291000.778475324" elevation="76.461909069" offset="2.999284386" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418923.236001333" northing="290999.118586987" elevation="77.461908669" offset="4.999284387" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418923.236001333" northing="290999.118586987" elevation="77.461908669" offset="4.999284387" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418923.236001333" northing="290999.118586987" elevation="77.461908669" offset="4.999284387" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418923.236001333" northing="290999.118586987" elevation="77.461908669" offset="4.999284387" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+060.000" > 
+<Station internalStation="1060.000000000" externalStation="1060.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418927.937637048" northing="291008.303020595" elevation="77.389208230" offset="-0.000491872" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418927.937637048" northing="291008.303020595" elevation="77.389208230" offset="-0.000491872" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418927.937637048" northing="291008.303020595" elevation="77.389208230" offset="-0.000491872" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418927.937637048" northing="291008.303020595" elevation="77.389208230" offset="-0.000491872" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418929.053329976" northing="291006.643132257" elevation="76.389207830" offset="1.999508129" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418929.332253208" northing="291006.228160173" elevation="76.389207731" offset="2.499508129" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418929.611176440" northing="291005.813188088" elevation="76.389207631" offset="2.999508129" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418930.726869367" northing="291004.153299751" elevation="77.389207231" offset="4.999508130" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418930.726869367" northing="291004.153299751" elevation="77.389207231" offset="4.999508130" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418930.726869367" northing="291004.153299751" elevation="77.389207231" offset="4.999508130" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418930.726869367" northing="291004.153299751" elevation="77.389207231" offset="4.999508130" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+070.000" > 
+<Station internalStation="1070.000000000" externalStation="1070.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418936.237217023" northing="291013.881279490" elevation="77.308657966" offset="-0.000243974" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418936.237217023" northing="291013.881279490" elevation="77.308657966" offset="-0.000243974" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418936.237217023" northing="291013.881279490" elevation="77.308657966" offset="-0.000243974" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418936.237217023" northing="291013.881279490" elevation="77.308657966" offset="-0.000243974" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418937.352909951" northing="291012.221391152" elevation="76.308657566" offset="1.999756026" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418937.631833183" northing="291011.806419068" elevation="76.308657466" offset="2.499756026" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418937.910756415" northing="291011.391446983" elevation="76.308657367" offset="2.999756027" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418939.026449342" northing="291009.731558645" elevation="77.308656967" offset="4.999756027" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418939.026449342" northing="291009.731558645" elevation="77.308656967" offset="4.999756027" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418939.026449342" northing="291009.731558645" elevation="77.308656967" offset="4.999756027" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418939.026449342" northing="291009.731558645" elevation="77.308656967" offset="4.999756027" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+080.000" > 
+<Station internalStation="1080.000000000" externalStation="1080.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418944.536545886" northing="291019.459910291" elevation="77.228022710" offset="-0.000114784" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418944.536545886" northing="291019.459910291" elevation="77.228022710" offset="-0.000114784" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418944.536545886" northing="291019.459910291" elevation="77.228022710" offset="-0.000114784" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418944.536545886" northing="291019.459910291" elevation="77.228022710" offset="-0.000114784" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418945.659189680" northing="291017.804722560" elevation="76.228022710" offset="1.999879094" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418945.939850629" northing="291017.390925627" elevation="76.228022710" offset="2.499877564" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418946.220511578" northing="291016.977128695" elevation="76.228022710" offset="2.999876034" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418947.343155372" northing="291015.321940964" elevation="77.228022710" offset="4.999869912" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418947.343155372" northing="291015.321940964" elevation="77.228022710" offset="4.999869912" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418947.343155372" northing="291015.321940964" elevation="77.228022710" offset="4.999869912" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418947.343155372" northing="291015.321940964" elevation="77.228022710" offset="4.999869912" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+080.435" > 
+<Station internalStation="1080.435412219" externalStation="1080.435412000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418944.895479815" northing="291019.706379540" elevation="77.224281643" offset="-0.000086006" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418944.895479815" northing="291019.706379540" elevation="77.224281643" offset="-0.000086006" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418944.895479815" northing="291019.706379540" elevation="77.224281643" offset="-0.000086006" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418944.895479815" northing="291019.706379540" elevation="77.224281643" offset="-0.000086006" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418946.037266753" northing="291018.064336836" elevation="76.224281643" offset="1.999909407" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418946.322713487" northing="291017.653826160" elevation="76.224281643" offset="2.499908260" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418946.608160221" northing="291017.243315484" elevation="76.224281643" offset="2.999907113" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418947.749947159" northing="291015.601272781" elevation="77.224281643" offset="4.999902526" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418947.749947159" northing="291015.601272781" elevation="77.224281643" offset="4.999902526" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418947.749947159" northing="291015.601272781" elevation="77.224281643" offset="4.999902526" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418947.749947159" northing="291015.601272781" elevation="77.224281643" offset="4.999902526" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+082.834" > 
+<Station internalStation="1082.834149829" externalStation="1082.834150000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418946.822748773" northing="291021.134013771" elevation="77.203992465" offset="0.001342716" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418946.822748773" northing="291021.134013771" elevation="77.203992465" offset="0.001342716" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418946.822748773" northing="291021.134013771" elevation="77.203992465" offset="0.001342716" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418946.822748773" northing="291021.134013771" elevation="77.203992465" offset="0.001342716" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418948.041104755" northing="291019.547946258" elevation="76.204002182" offset="2.001343080" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418948.345693751" northing="291019.151429380" elevation="76.204004611" offset="2.501343170" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418948.650282747" northing="291018.754912502" elevation="76.204007041" offset="3.001343261" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418949.868638729" northing="291017.168844989" elevation="77.204016758" offset="5.001343625" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418949.868638729" northing="291017.168844989" elevation="77.204016758" offset="5.001343625" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418949.868638729" northing="291017.168844989" elevation="77.204016758" offset="5.001343625" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418949.868638729" northing="291017.168844989" elevation="77.204016758" offset="5.001343625" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+087.317" > 
+<Station internalStation="1087.316524199" externalStation="1087.316524000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418950.162182995" northing="291024.098444782" elevation="77.163428168" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418950.162182995" northing="291024.098444782" elevation="77.163428168" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418950.162182995" northing="291024.098444782" elevation="77.163428168" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418950.162182995" northing="291024.098444782" elevation="77.163428168" offset="0.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418951.699857239" northing="291022.819555451" elevation="76.163428168" offset="2.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418952.084275799" northing="291022.499833119" elevation="76.163428168" offset="2.500000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418952.468694360" northing="291022.180110786" elevation="76.163428168" offset="3.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418954.006368604" northing="291020.901221456" elevation="77.163428168" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418954.006368604" northing="291020.901221456" elevation="77.163428168" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418954.006368604" northing="291020.901221456" elevation="77.163428168" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418954.006368604" northing="291020.901221456" elevation="77.163428168" offset="5.000000000" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+088.383" > 
+<Station internalStation="1088.382830840" externalStation="1088.382831000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418950.850500687" northing="291024.912766984" elevation="77.155375399" offset="0.000509240" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418950.850500687" northing="291024.912766984" elevation="77.155375399" offset="0.000509240" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418950.850500687" northing="291024.912766984" elevation="77.155375399" offset="0.000509240" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418950.850500687" northing="291024.912766984" elevation="77.155375399" offset="0.000509240" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418952.353534988" northing="291023.593408493" elevation="76.155375399" offset="2.000463974" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418952.729293563" northing="291023.263568870" elevation="76.155375399" offset="2.500452658" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418953.105052138" northing="291022.933729247" elevation="76.155375399" offset="3.000441341" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418954.608086439" northing="291021.614370755" elevation="77.155375399" offset="5.000396076" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418954.608086439" northing="291021.614370755" elevation="77.155375399" offset="5.000396076" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418954.608086439" northing="291021.614370755" elevation="77.155375399" offset="5.000396076" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418954.608086439" northing="291021.614370755" elevation="77.155375399" offset="5.000396076" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+090.000" > 
+<Station internalStation="1090.000000000" externalStation="1090.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418951.959863948" northing="291026.088920231" elevation="77.143796465" offset="0.000241458" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418951.959863948" northing="291026.088920231" elevation="77.143796465" offset="0.000241458" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418951.959863948" northing="291026.088920231" elevation="77.143796465" offset="0.000241458" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418951.959863948" northing="291026.088920231" elevation="77.143796465" offset="0.000241458" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418953.364288181" northing="291024.665014784" elevation="76.143796465" offset="2.000219995" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418953.715394239" northing="291024.309038422" elevation="76.143796465" offset="2.500214630" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418954.066500297" northing="291023.953062060" elevation="76.143796465" offset="3.000209264" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418955.470924530" northing="291022.529156613" elevation="77.143796465" offset="5.000187801" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418955.470924530" northing="291022.529156613" elevation="77.143796465" offset="5.000187801" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418955.470924530" northing="291022.529156613" elevation="77.143796465" offset="5.000187801" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418955.470924530" northing="291022.529156613" elevation="77.143796465" offset="5.000187801" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+100.000" > 
+<Station internalStation="1100.000000000" externalStation="1100.000000000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418960.382634475" northing="291031.324811045" elevation="77.072196258" offset="0.001381494" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418960.382634475" northing="291031.324811045" elevation="77.072196258" offset="0.001381494" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418960.382634475" northing="291031.324811045" elevation="77.072196258" offset="0.001381494" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418960.382634475" northing="291031.324811045" elevation="77.072196258" offset="0.001381494" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418961.038367995" northing="291029.435493081" elevation="76.072196258" offset="2.001258694" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418961.202301375" northing="291028.963163590" elevation="76.072196258" offset="2.501227995" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418961.366234755" northing="291028.490834099" elevation="76.072196258" offset="3.001197295" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418962.021968274" northing="291026.601516135" elevation="77.072196258" offset="5.001074495" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418962.021968274" northing="291026.601516135" elevation="77.072196258" offset="5.001074495" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418962.021968274" northing="291026.601516135" elevation="77.072196258" offset="5.001074495" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418962.021968274" northing="291026.601516135" elevation="77.072196258" offset="5.001074495" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+101.181" > 
+<Station internalStation="1101.181002462" externalStation="1101.181002000" externalStationName="" /> 
+<CrossSectionSurfaces > 
+<CrossSectionSurface name="DD_RD_WO#_CDR1" > 
+<CrossSectionPoints > 
+<CrossSectionPoint name="W1_LHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418961.503335884" northing="291031.697269933" elevation="77.063029351" offset="-0.000916536" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418961.503335884" northing="291031.697269933" elevation="77.063029351" offset="-0.000916536" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418961.503335884" northing="291031.697269933" elevation="77.063029351" offset="-0.000916536" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418961.503335884" northing="291031.697269933" elevation="77.063029351" offset="-0.000916536" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_LHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418962.127120715" northing="291029.797034983" elevation="76.063024383" offset="1.999083559" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="RD_CentreLine" style="Linear\DJV\Environmental\River Diversions\TL_RiverDiversionAlignment" easting="418962.283066922" northing="291029.321976245" elevation="76.063023141" offset="2.499083582" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_BASE" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Bottom of Slope" easting="418962.439013130" northing="291028.846917508" elevation="76.063021899" offset="2.999083606" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP1" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418963.062797960" northing="291026.946682557" elevation="77.063016931" offset="4.999083701" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MA" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418963.062797960" northing="291026.946682557" elevation="77.063016931" offset="4.999083701" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_TOD" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418963.062797960" northing="291026.946682557" elevation="77.063016931" offset="4.999083701" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+<CrossSectionPoint name="W1_RHS_MP" style="Linear\DJV\Environmental\River Diversions\TL_River Diversion Berm" easting="418963.062797960" northing="291026.946682557" elevation="77.063016931" offset="4.999083701" corridorName="DD_RD_WO#_CDR1" alternateSurface="" isTop="True" isBottom="True" /> 
+</CrossSectionPoints> 
+</CrossSectionSurface> 
+</CrossSectionSurfaces> 
+</CrossSectionStation> 
+<CrossSectionStation namedBoundary="1+104.756" > 
+<Station internalStation="1104.756200392" externalStation="1104.756200000" externalStationName="" /> 
+</CrossSectionStation> 
+</CrossSectionStations> 
+</CrossSectionSet> 
+</InRoads> 
